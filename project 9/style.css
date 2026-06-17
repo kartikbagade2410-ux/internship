@@ -25,7 +25,7 @@
         
         }
         button{
-            background-color: yellow;
+            background-color: rgba(240, 197, 7, 0.89);
             padding: 10px;
             border: none;
             border-radius: 10px;
@@ -56,6 +56,52 @@
             padding: 10px;
             border-radius: 20px;
         }
-        .next-text{
-            margin-left: ;
-        }
+       #manali{
+        display: flex;
+        width: 500px;
+       align-items: center;
+       margin-left: 50px;
+       margin-top: 20px;
+       gap: 10px;
+       box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+       padding: 20px;
+       border-radius: 10px;
+       }
+       .About{
+        width: 50%;
+       }
+
+       .hill{
+        margin-top: 10px;
+        font-size: 1.2rem;
+       }
+      
+         
+      
+      #hillas{
+        align-items: center;
+        display: flex;
+        gap: 30px;
+        
+      }
+      #enter{
+        
+        width: 250px;
+        height: 280px;
+       align-items: center;
+       
+       margin-top: 20px;
+       gap: 10px;
+       box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+       padding: 10px;
+       border-radius: 10px;
+
+      }
+      #traval{
+        align-items: center;
+        height: 250px;
+        width: 200px;
+        
+      }
+
+      
