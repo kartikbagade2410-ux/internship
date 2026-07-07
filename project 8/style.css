@@ -1,0 +1,43 @@
+#main{
+    width: 350px;
+    margin: auto;
+    text-align: center;
+    border: 1px solid rgba(128, 128, 128, 0.226);
+    border-radius: 10px;
+    padding: 25px;
+   box-shadow: rgba(128, 128, 128,0.151) 5px 5px 5px;
+
+}
+img{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+}
+button{
+    width: 100%;
+    border-radius: 5%;
+}
+#btn-1{
+    background-color: blue;
+    color: white;
+    padding: 10px;
+    border: none;
+}
+#btn-2{
+    background-color: rgb(14, 173, 236);
+    color: white;
+    padding: 10px;
+    border: none;
+}
+#btn-3{
+    background-color: green;
+    color: white;
+    padding: 10px;
+    border: none;
+}
+h3{
+    color: blue;
+}
+hr{
+    color: blue;
+}

@@ -1,0 +1,42 @@
+#main{
+    width: 350px;
+    margin: auto;
+    text-align: center;
+    border: 1px solid rgba(128, 128, 128, 0.226);
+    border-radius: 10px;
+    padding: 25px;
+    box-shadow: rgba(128, 128, 128, 0.151) 5px 5px 5px;
+}
+.image{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    
+}
+button{
+    width: 100%;
+}
+#btn-1{
+    background-color: blueviolet;
+    color: white;
+    border: none;
+    padding: 10px;
+}
+#btn-2{
+    background-color: blue;
+    color: white;
+    border:none ;
+    padding:10px ;
+}
+#btn-3{
+    background-color: green;
+    color: white;
+    border: none;
+    padding: 10px;
+}
+#h2{
+    color: darkblue;
+}
+#hr2{
+    color: darkblue;
+}
